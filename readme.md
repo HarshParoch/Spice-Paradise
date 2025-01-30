@@ -7,11 +7,12 @@ Features
 •	Responsive Design: Ensures optimal viewing experience across all screen sizes, from desktops to mobile devices.
 •	Interactive Menu: Displays detailed dish descriptions with high-quality images.
 •	Online Ordering System: Enables customers to place orders efficiently.
-•	Table Reservation: Allows users to book tables in advance.
-•	Customer Reviews: Section for customers to leave feedback and ratings.
-•	Location & Contact Details: Integrated Google Maps for easy navigation to the restaurant.
-•	SEO Optimization: Structured to improve visibility on search engines.
-•	
+
+Images
+![Image](https://github.com/user-attachments/assets/ec1bfc77-bde2-4ec9-b51b-6d70c4f488a1)
+![Image](https://github.com/user-attachments/assets/c569a669-0c11-4897-bced-b0a90dca2adb)
+![Image](https://github.com/user-attachments/assets/986f4a94-825c-4633-ab95-e54dd8833bf0)
+
 Technologies Used
 •	Frontend: HTML, CSS, SCSS, JavaScript
 •	UI Framework: Bootstrap (for responsive design and styling)
